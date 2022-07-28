@@ -1,14 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 July 2022 - To: 26 July 2022
+From: 20 July 2022 - To: 27 July 2022
 
-Total Time: 39 hrs 50 mins
+Total Time: 40 hrs 39 mins
 
-Go                27 hrs 46 mins  █████████████████░░░░░░░░   67.85 %
-Rust              6 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
-Org               1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-Other             1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Go                28 hrs 14 mins  █████████████████░░░░░░░░   67.58 %
+Rust              7 hrs 59 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.12 %
+Markdown          1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Org               1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Other             1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 ```
 
 <!--END_SECTION:waka-->
