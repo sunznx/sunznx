@@ -1,12 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 July 2022 - To: 06 August 2022
+From: 31 July 2022 - To: 07 August 2022
 
-Total Time: 9 hrs 40 mins
+Total Time: 16 hrs 6 mins
 
-Go             10 hrs 17 mins  █████████████████████▓░░░   86.51 %
-Other          56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+Go               15 hrs 21 mins  █████████████████████░░░░   83.52 %
+Markdown         58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+Other            41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->
