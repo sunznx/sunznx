@@ -1,15 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 August 2022 - To: 14 August 2022
+From: 08 August 2022 - To: 15 August 2022
 
-Total Time: 11 hrs 28 mins
+Total Time: 6 hrs 21 mins
 
-Go                   3 hrs 12 mins   ███████████▓░░░░░░░░░░░░░   46.78 %
-GoYacc File          1 hr 44 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.39 %
-Org                  1 hr            ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
-Bash                 16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Other                16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Go             8 hrs 29 mins   ████████████████████░░░░░   79.77 %
+Org            59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
+Markdown       23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Other          19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 ```
 
 <!--END_SECTION:waka-->
