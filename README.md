@@ -1,16 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 August 2022 - To: 26 August 2022
+From: 20 August 2022 - To: 27 August 2022
 
-Total Time: 5 hrs 25 mins
+Total Time: 2 hrs 26 mins
 
-Go             2 hrs 46 mins   ████████████▓░░░░░░░░░░░░   51.11 %
-Org            1 hr 34 mins    ███████▒░░░░░░░░░░░░░░░░░   29.03 %
-CSV            31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-JSON           12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-GoYacc File    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Markdown       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Org     1 hr 22 mins    ██████████████░░░░░░░░░░░   55.87 %
+CSV     31 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.21 %
+Go      30 mins         █████░░░░░░░░░░░░░░░░░░░░   20.48 %
+INI     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
