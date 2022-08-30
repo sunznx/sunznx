@@ -1,13 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 August 2022 - To: 28 August 2022
+From: 22 August 2022 - To: 29 August 2022
 
-Total Time: 1 hr 22 mins
+Total Time: 19 mins
 
-Org     1 hr 5 mins     ███████████████████▒░░░░░   77.88 %
-Go      17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Go    15 mins         ███████████████████▒░░░░░   77.14 %
+Org   4 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.86 %
 ```
 
 <!--END_SECTION:waka-->
