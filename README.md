@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 September 2022 - To: 20 September 2022
+From: 14 September 2022 - To: 21 September 2022
 
-Total Time: 30 hrs 3 mins
+Total Time: 30 hrs 27 mins
 
-Go               18 hrs 36 mins  ███████████████▒░░░░░░░░░   61.84 %
-C++              6 hrs 22 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.19 %
-Org              2 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-ObjectiveC       1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-JSON             24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Text             21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Go               15 hrs 17 mins  ████████████▓░░░░░░░░░░░░   50.18 %
+C++              6 hrs 56 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.80 %
+Org              5 hrs 50 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
+ObjectiveC       1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+JSON             24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Text             21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
