@@ -1,16 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 September 2022 - To: 25 September 2022
+From: 19 September 2022 - To: 26 September 2022
 
-Total Time: 30 hrs 41 mins
+Total Time: 27 hrs 22 mins
 
-Go           18 hrs 29 mins  ███████████████░░░░░░░░░░   60.03 %
-Org          7 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   23.78 %
-C++          4 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
-Text         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Git Config   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Makefile     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Go             15 hrs 3 mins   █████████████▓░░░░░░░░░░░   54.08 %
+Org            6 hrs 52 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.69 %
+C++            4 hrs 5 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
+Markdown       29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Other          28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
