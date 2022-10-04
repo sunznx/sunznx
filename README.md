@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 September 2022 - To: 02 October 2022
+From: 26 September 2022 - To: 03 October 2022
 
-Total Time: 12 hrs 31 mins
+Total Time: 9 hrs 43 mins
 
-Go             8 hrs 53 mins   █████████████████▒░░░░░░░   69.04 %
-C++            1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
-Org            46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-Markdown       33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-ObjectiveC     28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Other          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Go           6 hrs 43 mins   █████████████████▒░░░░░░░   69.13 %
+C++          1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
+Org          46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+ObjectiveC   28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+Rust         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+C            12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 ```
 
 <!--END_SECTION:waka-->
