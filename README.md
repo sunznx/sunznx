@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 October 2022 - To: 12 October 2022
+From: 06 October 2022 - To: 13 October 2022
 
-Total Time: 9 hrs 53 mins
+Total Time: 9 hrs 56 mins
 
-Go               3 hrs 45 mins   █████████▒░░░░░░░░░░░░░░░   37.91 %
-Org              2 hrs 57 mins   ███████▒░░░░░░░░░░░░░░░░░   29.96 %
-C                1 hr 29 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
-ObjectiveC       1 hr 22 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-Markdown         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-C++              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Go               3 hrs 45 mins   █████████▒░░░░░░░░░░░░░░░   37.75 %
+Org              2 hrs 57 mins   ███████▒░░░░░░░░░░░░░░░░░   29.83 %
+C                1 hr 28 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
+ObjectiveC       1 hr 22 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
+Markdown         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+C++              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
