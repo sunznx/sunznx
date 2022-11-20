@@ -1,16 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 November 2022 - To: 18 November 2022
+From: 12 November 2022 - To: 19 November 2022
 
-Total Time: 2 hrs 36 mins
+Total Time: 2 hrs 35 mins
 
-Org          1 hr 45 mins    ████████████████▓░░░░░░░░   67.18 %
-C++          34 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.71 %
-Go           14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
-textmate     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-ObjectiveC   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Org        1 hr 45 mins    █████████████████░░░░░░░░   68.00 %
+C++        33 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.56 %
+Go         13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+textmate   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+C          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
