@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 November 2022 - To: 22 November 2022
+From: 16 November 2022 - To: 23 November 2022
 
-Total Time: 3 hrs 53 mins
+Total Time: 2 hrs 37 mins
 
-Org              2 hrs 55 mins   ██████████████████▓░░░░░░   75.30 %
-Go               54 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.17 %
-textmate         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-TypeScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-C                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Org              1 hr 40 mins    ████████████████░░░░░░░░░   63.42 %
+Go               54 mins         ████████▓░░░░░░░░░░░░░░░░   34.32 %
+textmate         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+TypeScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+C                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
