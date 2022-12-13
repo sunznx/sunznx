@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 December 2022 - To: 11 December 2022
+From: 05 December 2022 - To: 12 December 2022
 
-Total Time: 11 mins
+Total Time: 2 hrs 45 mins
 
-PHP   11 mins         █████████████████████████   100.00 %
+Other             59 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.60 %
 ```
 
 <!--END_SECTION:waka-->
