@@ -1,15 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 December 2022 - To: 26 December 2022
+From: 20 December 2022 - To: 27 December 2022
 
-Total Time: 22 hrs 45 mins
+Total Time: 19 hrs 35 mins
 
-Go                         11 hrs 33 mins  ███████████▓░░░░░░░░░░░░░   47.00 %
-Markdown                   3 hrs 11 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
-Org                        2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
-YAML                       2 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-Other                      1 hr 49 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Go                         10 hrs 34 mins  █████████████░░░░░░░░░░░░   52.05 %
+Markdown                   2 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
+YAML                       1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+Org                        1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+Makefile                   1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+Docker                     59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
 ```
 
 <!--END_SECTION:waka-->
