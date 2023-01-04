@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 December 2022 - To: 02 January 2023
+From: 27 December 2022 - To: 03 January 2023
 
-Total Time: 6 hrs 23 mins
+Total Time: 10 hrs 20 mins
 
-Markdown               2 hrs 57 mins   ██████████░░░░░░░░░░░░░░░   39.87 %
-YAML                   2 hrs 7 mins    ███████▒░░░░░░░░░░░░░░░░░   28.76 %
-Other                  1 hr 1 min      ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
+YAML                   5 hrs 8 mins    ███████████▓░░░░░░░░░░░░░   46.00 %
+Markdown               3 hrs 1 min     ██████▓░░░░░░░░░░░░░░░░░░   27.09 %
+Other                  51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
 ```
 
 <!--END_SECTION:waka-->
