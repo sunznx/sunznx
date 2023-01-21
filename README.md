@@ -1,14 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 January 2023 - To: 19 January 2023
+From: 13 January 2023 - To: 20 January 2023
 
-Total Time: 16 hrs 38 mins
+Total Time: 12 hrs 49 mins
 
-Go                   5 hrs 46 mins   ████████▒░░░░░░░░░░░░░░░░   32.75 %
-YAML                 5 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   29.39 %
-JSON                 2 hrs 21 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
-Other                1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+YAML              5 hrs 8 mins    █████████▓░░░░░░░░░░░░░░░   39.05 %
+Go                4 hrs 37 mins   ████████▓░░░░░░░░░░░░░░░░   35.16 %
+JSON              1 hr 21 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
+Org               34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+Other             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
