@@ -1,15 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 January 2023 - To: 20 January 2023
+From: 14 January 2023 - To: 21 January 2023
 
-Total Time: 12 hrs 49 mins
+Total Time: 9 hrs 58 mins
 
-YAML              5 hrs 8 mins    █████████▓░░░░░░░░░░░░░░░   39.05 %
-Go                4 hrs 37 mins   ████████▓░░░░░░░░░░░░░░░░   35.16 %
-JSON              1 hr 21 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-Org               34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-Other             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Go                4 hrs 9 mins    ██████████▒░░░░░░░░░░░░░░   40.96 %
+YAML              3 hrs 35 mins   ████████▓░░░░░░░░░░░░░░░░   35.27 %
+JSON              57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+Docker            19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Org               16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Other             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
 <!--END_SECTION:waka-->
