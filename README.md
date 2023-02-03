@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 January 2023 - To: 01 February 2023
+From: 26 January 2023 - To: 02 February 2023
 
-Total Time: 8 hrs 33 mins
+Total Time: 11 hrs 42 mins
 
-INI               2 hrs 16 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.04 %
-JSON              55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
-YAML              50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
-Go                48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-Text              45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
-Org               44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+YAML              2 hrs 22 mins   █████░░░░░░░░░░░░░░░░░░░░   20.03 %
+INI               2 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   19.52 %
+JSON              58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+Go                51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Text              51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+Shell Script      46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
 ```
 
 <!--END_SECTION:waka-->
