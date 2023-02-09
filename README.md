@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 January 2023 - To: 07 February 2023
+From: 01 February 2023 - To: 08 February 2023
 
-Total Time: 17 hrs 13 mins
+Total Time: 20 hrs 59 mins
 
-YAML                   3 hrs 41 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
-Org                    2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
-Text                   2 hrs 21 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
-Shell Script           1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-OrgMode                1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
-textmate               1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+YAML                   5 hrs 52 mins   ███████░░░░░░░░░░░░░░░░░░   27.98 %
+Org                    2 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
+Text                   2 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+Ruby                   1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+Shell Script           1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+Bash                   1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
 ```
 
 <!--END_SECTION:waka-->
