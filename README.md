@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 February 2023 - To: 17 February 2023
+From: 11 February 2023 - To: 18 February 2023
 
-Total Time: 17 hrs 33 mins
+Total Time: 16 hrs 46 mins
 
-Go                6 hrs 29 mins   █████████▒░░░░░░░░░░░░░░░   36.97 %
-YAML              3 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.23 %
-JSON              1 hr 37 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
-Bash              1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-Shell Script      1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-Properties        48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Go                5 hrs 45 mins   ████████▓░░░░░░░░░░░░░░░░   34.34 %
+YAML              3 hrs 43 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.17 %
+JSON              1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+Bash              1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+Shell Script      1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+Properties        48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
 ```
 
 <!--END_SECTION:waka-->
