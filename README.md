@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 March 2023 - To: 16 March 2023
+From: 10 March 2023 - To: 17 March 2023
 
-Total Time: 29 hrs 47 mins
+Total Time: 25 hrs 53 mins
 
-Go                22 hrs 57 mins  ███████████████████▒░░░░░   77.06 %
-Java              2 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-PHP               1 hr 48 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-YAML              46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-Properties        30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-Bash              22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Go            22 hrs 1 min    █████████████████████▒░░░   85.03 %
+Java          2 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+PHP           1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+Properties    21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Text          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Log           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
