@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 March 2023 - To: 20 March 2023
+From: 14 March 2023 - To: 21 March 2023
 
-Total Time: 23 hrs 3 mins
+Total Time: 19 hrs 25 mins
 
-Go           21 hrs 28 mins  ███████████████████████▒░   93.13 %
-PHP          1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-Text         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Java         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Go             17 hrs 16 mins  ██████████████████████▒░░   88.97 %
+PHP            1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+YAML           24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Text           16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+SmartyConfig   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Bash           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
