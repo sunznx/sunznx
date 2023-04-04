@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 March 2023 - To: 02 April 2023
+From: 27 March 2023 - To: 03 April 2023
 
-Total Time: 23 hrs 25 mins
+Total Time: 19 hrs 32 mins
 
-Go                14 hrs 43 mins  ███████████████▓░░░░░░░░░   62.87 %
-JSON              2 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-Markdown          1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-Bash              47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-YAML              42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-go.mod            40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Go                12 hrs 23 mins  ████████████████░░░░░░░░░   63.43 %
+Markdown          1 hr 47 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+JSON              1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+Bash              47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+YAML              42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+textmate          38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:waka-->
