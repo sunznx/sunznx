@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2023 - To: 20 April 2023
+From: 14 April 2023 - To: 21 April 2023
 
-Total Time: 28 hrs 20 mins
+Total Time: 35 hrs 5 mins
 
-YAML                   10 hrs 2 mins   █████████░░░░░░░░░░░░░░░░   35.40 %
-Go                     7 hrs 24 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.11 %
-Markdown               3 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
-JSON                   1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-Shell Script           1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-Docker                 1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+Go                     13 hrs 29 mins  █████████▓░░░░░░░░░░░░░░░   38.47 %
+YAML                   11 hrs 27 mins  ████████░░░░░░░░░░░░░░░░░   32.64 %
+Markdown               2 hrs 53 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Shell Script           1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+Docker                 1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+JSON                   1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
 ```
 
 <!--END_SECTION:waka-->
