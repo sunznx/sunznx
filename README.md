@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2023 - To: 04 June 2023
+From: 29 May 2023 - To: 05 June 2023
 
-Total Time: 7 hrs 37 mins
+Total Time: 9 hrs 30 mins
 
-Go               5 hrs 25 mins   █████████████████▓░░░░░░░   71.14 %
-JSON             1 hr 17 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
-Text             29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-go.mod           18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-GitIgnore file   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Go               7 hrs 55 mins   █████████████████████░░░░   83.38 %
+Text             35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+JSON             34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+go.mod           19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+GitIgnore file   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
