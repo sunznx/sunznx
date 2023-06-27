@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2023 - To: 25 June 2023
+From: 19 June 2023 - To: 26 June 2023
 
-Total Time: 13 hrs 37 mins
+Total Time: 13 hrs 22 mins
 
-YAML                   10 hrs 32 mins  ███████████████████▒░░░░░   77.32 %
-Docker                 1 hr 37 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
-JavaScript             45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-JSON                   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Go                     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+YAML                   12 hrs 38 mins  ███████████████████████▓░   94.55 %
+JSON                   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Go                     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Docker                 7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+GitIgnore file         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
