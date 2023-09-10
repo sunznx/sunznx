@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2023 - To: 08 September 2023
+From: 02 September 2023 - To: 09 September 2023
 
-Total Time: 48 hrs 5 mins
+Total Time: 49 hrs 21 mins
 
-Go                     33 hrs 47 mins  █████████████████▒░░░░░░░   69.97 %
-SQL                    8 hrs 32 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.68 %
-protobuf               2 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-JSON                   1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Protocol Buffer        54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Go                     34 hrs 54 mins  █████████████████▓░░░░░░░   70.43 %
+SQL                    8 hrs 41 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
+protobuf               2 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Protocol Buffer        1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+JSON                   57 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
