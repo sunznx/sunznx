@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2023 - To: 08 October 2023
+From: 02 October 2023 - To: 09 October 2023
 
-Total Time: 2 mins
+Total Time: 48 mins
 
-Go               1 min           █████████████████▓░░░░░░░   70.56 %
-Text             0 secs          █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
-JSON             0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-YAML             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Docker           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Go               23 mins         ████████████░░░░░░░░░░░░░   47.88 %
+YAML             18 mins         █████████▒░░░░░░░░░░░░░░░   37.83 %
+Makefile         6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
+Text             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
