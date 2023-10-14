@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2023 - To: 12 October 2023
+From: 06 October 2023 - To: 13 October 2023
 
-Total Time: 11 hrs 27 mins
+Total Time: 15 hrs
 
-Go                5 hrs 57 mins   █████████████░░░░░░░░░░░░   51.57 %
-YAML              4 hrs 18 mins   █████████▒░░░░░░░░░░░░░░░   37.29 %
-go.mod            22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-JSON              19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-protobuf          18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Go                8 hrs 39 mins   ██████████████░░░░░░░░░░░   56.48 %
+YAML              4 hrs 21 mins   ███████░░░░░░░░░░░░░░░░░░   28.42 %
+SQL               33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+protobuf          32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+go.mod            22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 ```
 
 <!--END_SECTION:waka-->
