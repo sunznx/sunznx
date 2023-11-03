@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2023 - To: 01 November 2023
+From: 26 October 2023 - To: 02 November 2023
 
-Total Time: 19 hrs 43 mins
+Total Time: 18 hrs 26 mins
 
-Go                15 hrs 55 mins  ████████████████████▒░░░░   80.73 %
-SQL               1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-JSON              45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-protobuf          39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Ezhil             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Go                14 hrs 38 mins  ███████████████████░░░░░░   76.59 %
+SQL               1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+JSON              54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Other             40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+protobuf          33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
 ```
 
 <!--END_SECTION:waka-->
