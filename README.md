@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2023 - To: 17 November 2023
+From: 11 November 2023 - To: 18 November 2023
 
-Total Time: 31 hrs 25 mins
+Total Time: 33 hrs 58 mins
 
-Go                6 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.17 %
-Go Template       5 hrs 41 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
-Vue.js            5 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.54 %
-JavaScript        5 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
-CSS               2 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+Vue.js            7 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
+Go                6 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
+Go Template       5 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
+JavaScript        5 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
+CSS               2 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
 ```
 
 <!--END_SECTION:waka-->
