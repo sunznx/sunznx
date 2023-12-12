@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2023 - To: 09 December 2023
+From: 03 December 2023 - To: 10 December 2023
 
-Total Time: 25 hrs 40 mins
+Total Time: 28 hrs 19 mins
 
-Go                   17 hrs 11 mins  ████████████████▓░░░░░░░░   66.99 %
-Kotlin               3 hrs 31 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
-YAML                 1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-JSON                 52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-ActionScript 3       41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Go                   17 hrs 11 mins  ███████████████▒░░░░░░░░░   60.70 %
+Kotlin               5 hrs 46 mins   █████░░░░░░░░░░░░░░░░░░░░   20.38 %
+YAML                 1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+JSON                 52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+ActionScript 3       41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->
