@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 December 2023 - To: 21 December 2023
+From: 15 December 2023 - To: 22 December 2023
 
-Total Time: 15 hrs 13 mins
+Total Time: 15 hrs 30 mins
 
-Kotlin                 5 hrs 49 mins   █████████▓░░░░░░░░░░░░░░░   38.31 %
-Go                     4 hrs 32 mins   ███████▒░░░░░░░░░░░░░░░░░   29.88 %
-Java                   1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
-Text                   30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-SQL                    25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Kotlin                 6 hrs 49 mins   ███████████░░░░░░░░░░░░░░   44.01 %
+Go                     4 hrs 6 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
+Java                   1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Markdown               28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+textmate               24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
 ```
 
 <!--END_SECTION:waka-->
