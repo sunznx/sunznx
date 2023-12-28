@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2023 - To: 26 December 2023
+From: 20 December 2023 - To: 27 December 2023
 
-Total Time: 9 hrs 45 mins
+Total Time: 12 hrs 32 mins
 
-Go                4 hrs 52 mins   ████████████▒░░░░░░░░░░░░   49.95 %
-Kotlin            3 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.33 %
-Java              37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-Protocol Buffer   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-Markdown          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Go                7 hrs 17 mins   ██████████████▓░░░░░░░░░░   58.11 %
+Kotlin            2 hrs 53 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.05 %
+Protocol Buffer   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+YAML              23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+go.mod            22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
 <!--END_SECTION:waka-->
