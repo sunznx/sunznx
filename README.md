@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2023 - To: 05 January 2024
+From: 30 December 2023 - To: 06 January 2024
 
 Total Time: 8 hrs 52 mins
 
-Go                5 hrs 17 mins   ███████████████░░░░░░░░░░   59.53 %
-JSON              2 hrs 33 mins   ███████▒░░░░░░░░░░░░░░░░░   28.82 %
+Go                5 hrs 17 mins   ███████████████░░░░░░░░░░   59.52 %
+JSON              2 hrs 33 mins   ███████▒░░░░░░░░░░░░░░░░░   28.83 %
 Java              31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
 SQL               9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 YAML              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
