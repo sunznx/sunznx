@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2023 - To: 07 January 2024
+From: 01 January 2024 - To: 08 January 2024
 
-Total Time: 8 hrs 52 mins
+Total Time: 12 hrs 2 mins
 
-Go                5 hrs 17 mins   ███████████████░░░░░░░░░░   59.52 %
-JSON              2 hrs 33 mins   ███████▒░░░░░░░░░░░░░░░░░   28.83 %
-Java              31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-SQL               9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-YAML              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Go                7 hrs 51 mins   ████████████████▒░░░░░░░░   65.25 %
+JSON              2 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.00 %
+Java              31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+SQL               23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+go.mod            15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
