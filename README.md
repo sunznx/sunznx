@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 January 2024 - To: 21 January 2024
+From: 15 January 2024 - To: 22 January 2024
 
-Total Time: 15 hrs 32 mins
+Total Time: 11 hrs 21 mins
 
-Go                10 hrs 54 mins  █████████████████▓░░░░░░░   70.11 %
-Kotlin            2 hrs 33 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
-JSON              1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
-TOML              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-YAML              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Go               7 hrs 22 mins   ████████████████▒░░░░░░░░   64.87 %
+Kotlin           2 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.08 %
+JSON             1 hr 12 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+TOML             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+YAML             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
