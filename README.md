@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2024 - To: 23 January 2024
+From: 17 January 2024 - To: 24 January 2024
 
-Total Time: 10 hrs 56 mins
+Total Time: 14 hrs 9 mins
 
-Go               9 hrs 7 mins    █████████████████████░░░░   83.41 %
-JSON             1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
-Markdown         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-YAML             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-go.mod           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Go                12 hrs 20 mins  █████████████████████▓░░░   87.20 %
+JSON              54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+Text              17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Markdown          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+YAML              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
