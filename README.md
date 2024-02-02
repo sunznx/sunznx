@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2024 - To: 31 January 2024
+From: 25 January 2024 - To: 01 February 2024
 
-Total Time: 25 hrs 36 mins
+Total Time: 23 hrs 21 mins
 
-Go                19 hrs 36 mins  ███████████████████░░░░░░   76.57 %
-Kotlin            2 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
-JSON              1 hr 38 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-Text              48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-SQL               28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Go                17 hrs 34 mins  ██████████████████▓░░░░░░   75.23 %
+Kotlin            2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+JSON              1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+Text              48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+SQL               28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
 
 <!--END_SECTION:waka-->
