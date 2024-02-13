@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2024 - To: 11 February 2024
+From: 05 February 2024 - To: 12 February 2024
 
-Total Time: 6 hrs 46 mins
+Total Time: 4 hrs 44 mins
 
-Kotlin           6 hrs 3 mins    ██████████████████████▒░░   89.42 %
-Swift            21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-TOML             10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-SQL              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Go               4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Kotlin   4 hrs 31 mins   ███████████████████████▓░   95.14 %
+Swift    8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+SQL      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Java     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
