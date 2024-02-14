@@ -3,15 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2024 - To: 12 February 2024
+From: 06 February 2024 - To: 13 February 2024
 
-Total Time: 4 hrs 44 mins
+Total Time: 2 hrs 35 mins
 
-Kotlin   4 hrs 31 mins   ███████████████████████▓░   95.14 %
-Swift    8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-SQL      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Java     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Kotlin   2 hrs 27 mins   ███████████████████████▓░   94.54 %
+Swift    8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+Java     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
