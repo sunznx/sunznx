@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2024 - To: 20 February 2024
+From: 14 February 2024 - To: 21 February 2024
 
-Total Time: 8 hrs 18 mins
+Total Time: 13 hrs 3 mins
 
-Go                     4 hrs 31 mins   █████████████▓░░░░░░░░░░░   54.48 %
-Kotlin                 2 hrs 44 mins   ████████▒░░░░░░░░░░░░░░░░   32.88 %
-XML                    23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-Bash                   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-SQL                    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Go                     8 hrs 51 mins   █████████████████░░░░░░░░   67.76 %
+Kotlin                 2 hrs 49 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.61 %
+XML                    23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+SQL                    19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Bash                   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
 <!--END_SECTION:waka-->
