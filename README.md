@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 March 2024 - To: 22 March 2024
+From: 16 March 2024 - To: 23 March 2024
 
-Total Time: 23 hrs 12 mins
+Total Time: 23 hrs 9 mins
 
-Go                     14 hrs 32 mins  ███████████████▓░░░░░░░░░   62.61 %
-JSON                   3 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
-YAML                   1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
-Text                   40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-Markdown               39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Go                     14 hrs 29 mins  ███████████████▓░░░░░░░░░   62.58 %
+JSON                   3 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
+YAML                   1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Text                   40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Markdown               39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 ```
 
 <!--END_SECTION:waka-->
