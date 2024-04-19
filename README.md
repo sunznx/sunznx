@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2024 - To: 17 April 2024
+From: 11 April 2024 - To: 18 April 2024
 
-Total Time: 23 hrs 24 mins
+Total Time: 24 hrs 34 mins
 
-Go                             17 hrs 58 mins  ███████████████████▒░░░░░   76.77 %
-SQL                            1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-YAML                           56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-JSON                           55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-protobuf                       40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Go                             18 hrs 30 mins  ██████████████████▓░░░░░░   75.31 %
+SQL                            1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+JSON                           1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+go.mod                         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Bash                           30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 ```
 
 <!--END_SECTION:waka-->
