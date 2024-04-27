@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 April 2024 - To: 25 April 2024
+From: 19 April 2024 - To: 26 April 2024
 
-Total Time: 9 hrs 50 mins
+Total Time: 6 hrs 49 mins
 
-Go                             6 hrs 8 mins    ███████████████▓░░░░░░░░░   62.40 %
-Text                           53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-JSON                           45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-protobuf                       37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-Protocol Buffer                26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+Go                             4 hrs 41 mins   █████████████████▒░░░░░░░   68.73 %
+Text                           49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
+protobuf                       29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+Protocol Buffer                23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+JSON                           15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
 ```
 
 <!--END_SECTION:waka-->
