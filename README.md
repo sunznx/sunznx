@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2024 - To: 05 May 2024
+From: 29 April 2024 - To: 06 May 2024
 
-Total Time: 2 hrs 3 mins
+Total Time: 8 hrs 28 mins
 
-Swift            2 hrs 1 min     ████████████████████████▒   97.92 %
-Kotlin           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Go               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Go               4 hrs 13 mins   ████████████▒░░░░░░░░░░░░   49.79 %
+Swift            3 hrs 32 mins   ██████████▒░░░░░░░░░░░░░░   41.79 %
+JSON             25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Text             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+go.mod           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
