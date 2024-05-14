@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2024 - To: 12 May 2024
+From: 06 May 2024 - To: 13 May 2024
 
-Total Time: 30 hrs 39 mins
+Total Time: 29 hrs 52 mins
 
-Go                             20 hrs 52 mins  █████████████████░░░░░░░░   68.08 %
-Swift                          6 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.64 %
-JSON                           1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-SQL                            25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Text                           16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Go                             19 hrs 26 mins  ████████████████▒░░░░░░░░   65.07 %
+Swift                          5 hrs 53 mins   █████░░░░░░░░░░░░░░░░░░░░   19.70 %
+SQL                            1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+JSON                           1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+protobuf                       34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
 <!--END_SECTION:waka-->
