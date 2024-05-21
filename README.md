@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 May 2024 - To: 19 May 2024
+From: 13 May 2024 - To: 20 May 2024
 
-Total Time: 20 hrs 20 mins
+Total Time: 20 hrs 1 min
 
-Go                             12 hrs 20 mins  ███████████████░░░░░░░░░░   60.63 %
-SQL                            3 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
-protobuf                       1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-Protocol Buffer                1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-Text                           56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Go                             14 hrs 22 mins  ██████████████████░░░░░░░   71.82 %
+SQL                            2 hrs 46 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
+Text                           1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+protobuf                       47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Protocol Buffer                35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 ```
 
 <!--END_SECTION:waka-->
