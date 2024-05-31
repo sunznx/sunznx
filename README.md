@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 May 2024 - To: 29 May 2024
+From: 23 May 2024 - To: 30 May 2024
 
-Total Time: 16 hrs 22 mins
+Total Time: 16 hrs 38 mins
 
-Go                12 hrs 47 mins  ███████████████████▓░░░░░   78.08 %
-Java              1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-Text              43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-JSON              24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-XML               13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Go                13 hrs 21 mins  ████████████████████░░░░░   80.28 %
+Swift             1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+Text              55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+JSON              40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Protocol Buffer   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
