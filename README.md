@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 June 2024 - To: 19 June 2024
+From: 13 June 2024 - To: 20 June 2024
 
-Total Time: 26 hrs 45 mins
+Total Time: 24 hrs 21 mins
 
-Go                24 hrs 3 mins   ██████████████████████▒░░   89.90 %
-SQL               47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-protobuf          45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Protocol Buffer   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-Bash              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Go                20 hrs 37 mins  █████████████████████░░░░   84.66 %
+YAML              1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+SQL               43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+protobuf          42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Protocol Buffer   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
