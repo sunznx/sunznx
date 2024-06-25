@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2024 - To: 23 June 2024
+From: 17 June 2024 - To: 24 June 2024
 
-Total Time: 25 hrs
+Total Time: 26 hrs 12 mins
 
-Go                20 hrs 58 mins  █████████████████████░░░░   83.88 %
-YAML              1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-protobuf          52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-SQL               34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-Docker            30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Go                22 hrs 38 mins  █████████████████████▓░░░   86.40 %
+YAML              1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+protobuf          39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Docker            30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+SQL               24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->
