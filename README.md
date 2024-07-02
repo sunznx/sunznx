@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2024 - To: 30 June 2024
+From: 24 June 2024 - To: 01 July 2024
 
-Total Time: 35 hrs 41 mins
+Total Time: 34 hrs 36 mins
 
-Go                             33 hrs 21 mins  ███████████████████████▒░   93.49 %
-JSON                           57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-protobuf                       44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-Protocol Buffer                17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Docker                         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Go                             31 hrs 50 mins  ███████████████████████░░   91.98 %
+JSON                           56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+protobuf                       40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Protocol Buffer                16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+YAML                           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
