@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 August 2024 - To: 03 September 2024
+From: 28 August 2024 - To: 04 September 2024
 
-Total Time: 13 hrs 36 mins
+Total Time: 15 hrs 51 mins
 
-Go                11 hrs 22 mins  █████████████████████░░░░   83.61 %
-JSON              1 hr 36 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
-SQL               23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-go.mod            6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-protobuf          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Go                12 hrs 15 mins  ███████████████████▒░░░░░   77.35 %
+JSON              2 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
+Text              32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+SQL               31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+go.mod            6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
