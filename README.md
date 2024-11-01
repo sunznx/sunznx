@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2024 - To: 30 October 2024
+From: 24 October 2024 - To: 31 October 2024
 
-Total Time: 10 hrs 1 min
+Total Time: 8 hrs 59 mins
 
-Go                8 hrs 54 mins   ██████████████████████▒░░   88.78 %
-SQL               33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-JSON              33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-go.mod            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Go                6 hrs 47 mins   ███████████████████░░░░░░   75.55 %
+SQL               33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Protocol Buffer   29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+YAML              28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+JSON              21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 ```
 
 <!--END_SECTION:waka-->
