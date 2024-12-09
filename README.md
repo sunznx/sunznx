@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 November 2024 - To: 06 December 2024
+From: 01 December 2024 - To: 08 December 2024
 
-Total Time: 6 hrs 51 mins
+Total Time: 6 hrs 32 mins
 
-Go                5 hrs 57 mins   █████████████████████▓░░░   86.97 %
-JSON              51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
-Protocol Buffer   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Go                5 hrs 42 mins   █████████████████████▓░░░   87.12 %
+JSON              48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+Protocol Buffer   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 SQL               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
