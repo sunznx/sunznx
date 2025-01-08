@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2024 - To: 05 January 2025
+From: 31 December 2024 - To: 07 January 2025
 
-Total Time: 12 hrs 54 mins
+Total Time: 8 hrs 59 mins
 
-Go               7 hrs 50 mins   ███████████████▒░░░░░░░░░   60.74 %
-JSON             2 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.30 %
-Text             1 hr 45 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
-JSON5            53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-SQL              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Go         4 hrs 1 min     ███████████▒░░░░░░░░░░░░░   44.83 %
+JSON       2 hrs 52 mins   ████████░░░░░░░░░░░░░░░░░   32.04 %
+Text       1 hr 10 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
+JSON5      53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+SQL        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
