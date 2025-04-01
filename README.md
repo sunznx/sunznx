@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 March 2025 - To: 30 March 2025
+From: 24 March 2025 - To: 31 March 2025
 
-Total Time: 12 hrs 20 mins
+Total Time: 15 hrs 17 mins
 
-Go                9 hrs 11 mins   ██████████████████▓░░░░░░   74.45 %
-Protocol Buffer   1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
-SQL               53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-protobuf          39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-JSON              24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Go                11 hrs 53 mins  ███████████████████▒░░░░░   77.79 %
+Protocol Buffer   1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+protobuf          1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+SQL               55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+JSON              19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
