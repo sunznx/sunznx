@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 April 2025 - To: 15 April 2025
+From: 09 April 2025 - To: 16 April 2025
 
-Total Time: 4 hrs 58 mins
+Total Time: 6 hrs 15 mins
 
-Go                2 hrs 47 mins   ██████████████░░░░░░░░░░░   56.19 %
-YAML              1 hr 3 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
-SQL               46 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
-JSON              10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-textmate          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Go                4 hrs 52 mins   ███████████████████▓░░░░░   78.04 %
+JSON              39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
+SQL               18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+YAML              14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+textmate          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
