@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2025 - To: 23 July 2025
+From: 17 July 2025 - To: 24 July 2025
 
-Total Time: 27 hrs 2 mins
+Total Time: 26 hrs 8 mins
 
-Markdown          10 hrs 33 mins  █████████▒░░░░░░░░░░░░░░░   37.07 %
-Go                9 hrs 10 mins   ████████░░░░░░░░░░░░░░░░░   32.20 %
-SQL               4 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
-Other             1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-JSON              53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Markdown          10 hrs 33 mins  █████████▒░░░░░░░░░░░░░░░   37.56 %
+Go                8 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   28.75 %
+SQL               3 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
+Other             1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+Text              51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 ```
 
 <!--END_SECTION:waka-->
