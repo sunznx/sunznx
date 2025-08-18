@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2025 - To: 16 August 2025
+From: 10 August 2025 - To: 17 August 2025
 
-Total Time: 28 mins
+Total Time: 46 mins
 
-Markdown     24 mins         ████████████████████▓░░░░   83.24 %
-SQL          3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
-textmate     1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-JSON-lines   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Markdown     24 mins         █████████████░░░░░░░░░░░░   51.77 %
+SQL          20 mins         ███████████░░░░░░░░░░░░░░   44.26 %
+textmate     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+JSON-lines   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
