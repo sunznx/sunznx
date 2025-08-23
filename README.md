@@ -1,11 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2025 - To: 21 August 2025
+From: 15 August 2025 - To: 22 August 2025
 
-Total Time: 17 mins
+Total Time: 1 hr 3 mins
 
-SQL   17 mins         █████████████████████████   100.00 %
+Markdown     39 mins         ███████████████▒░░░░░░░░░   61.20 %
+SQL          23 mins         █████████░░░░░░░░░░░░░░░░   36.12 %
+textmate     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Go           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+JSON-lines   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
