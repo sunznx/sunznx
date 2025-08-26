@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2025 - To: 24 August 2025
+From: 18 August 2025 - To: 25 August 2025
 
-Total Time: 55 mins
+Total Time: 3 hrs 2 mins
 
-Markdown     47 mins         █████████████████████▓░░░   86.97 %
-SQL          5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
-textmate     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-Go           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-JSON-lines   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+YAML             1 hr 25 mins    ███████████▓░░░░░░░░░░░░░   46.67 %
+Markdown         59 mins         ████████▒░░░░░░░░░░░░░░░░   32.73 %
+GitIgnore file   20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+SQL              10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+textmate         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 ```
 
 <!--END_SECTION:waka-->
