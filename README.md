@@ -1,15 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2025 - To: 04 October 2025
+From: 28 September 2025 - To: 05 October 2025
 
 Total Time: 4 mins
 
-JSON                  4 mins          █████████████████████▓░░░   86.77 %
-SQL                   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
-textmate              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-YAML                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Nginx Configuration   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JSON       4 mins          ████████████████████████▓   99.33 %
+textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
