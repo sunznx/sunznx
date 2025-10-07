@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2025 - To: 05 October 2025
+From: 29 September 2025 - To: 06 October 2025
 
-Total Time: 4 mins
+Total Time: 0 secs
 
-JSON       4 mins          ████████████████████████▓   99.33 %
-textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
