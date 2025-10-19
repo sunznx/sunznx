@@ -1,11 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2025 - To: 17 October 2025
+From: 11 October 2025 - To: 18 October 2025
 
-Total Time: 5 mins
+Total Time: 6 mins
 
-SQL   5 mins          █████████████████████████   100.00 %
+SQL        6 mins          ████████████████████████▓   98.27 %
+JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
