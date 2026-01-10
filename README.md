@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2026 - To: 08 January 2026
+From: 02 January 2026 - To: 09 January 2026
 
-Total Time: 19 hrs 21 mins
+Total Time: 28 hrs 13 mins
 
-Go               14 hrs 16 mins  ██████████████████▒░░░░░░   73.77 %
-Markdown         1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-Bash             1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-YAML             44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-Makefile         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Go                20 hrs 5 mins   █████████████████▓░░░░░░░   71.19 %
+Markdown          2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+Bash              1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+YAML              53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Dart              50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 ```
 
 <!--END_SECTION:waka-->
