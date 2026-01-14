@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2026 - To: 12 January 2026
+From: 06 January 2026 - To: 13 January 2026
 
-Total Time: 34 hrs 40 mins
+Total Time: 35 hrs 46 mins
 
-Go                23 hrs 54 mins  ████████████████░░░░░░░░░   63.34 %
-Markdown          3 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-Other             3 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-Bash              1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-YAML              1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Go                24 hrs 52 mins  ███████████████░░░░░░░░░░   60.12 %
+Other             5 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
+Markdown          3 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+YAML              1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Bash              1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
