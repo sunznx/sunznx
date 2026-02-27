@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2026 - To: 25 February 2026
+From: 19 February 2026 - To: 26 February 2026
 
-Total Time: 7 hrs 45 mins
+Total Time: 12 hrs 59 mins
 
-Other                                    4 hrs 39 mins         █████████▒░░░░░░░░░░░░░░░   37.49 %
-Go                                       4 hrs 1 min           ████████░░░░░░░░░░░░░░░░░   32.40 %
-Markdown                                 2 hrs 33 mins         █████░░░░░░░░░░░░░░░░░░░░   20.61 %
-Dart                                     16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-YAML                                     14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Other                                    6 hrs 25 mins         ████████▒░░░░░░░░░░░░░░░░   33.09 %
+Go                                       4 hrs 36 mins         ██████░░░░░░░░░░░░░░░░░░░   23.77 %
+Markdown                                 4 hrs 32 mins         ██████░░░░░░░░░░░░░░░░░░░   23.36 %
+JavaScript                               55 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+JSON                                     49 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
 ```
 
 <!--END_SECTION:waka-->
