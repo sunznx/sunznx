@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2026 - To: 24 March 2026
+From: 18 March 2026 - To: 25 March 2026
 
-Total Time: 25 hrs 57 mins
+Total Time: 25 hrs 35 mins
 
-Other                                    22 hrs 18 mins        ███████████▓░░░░░░░░░░░░░   46.22 %
-YAML                                     7 hrs 1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
-Go                                       4 hrs 15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-Rust                                     2 hrs 52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-TypeScript                               2 hrs 41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+Other                                    21 hrs 47 mins        ███████████▒░░░░░░░░░░░░░   45.98 %
+YAML                                     6 hrs 20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
+Rust                                     4 hrs 38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+TypeScript                               3 hrs 4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+Go                                       2 hrs 29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
 ```
 
 <!--END_SECTION:waka-->
