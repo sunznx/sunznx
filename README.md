@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 April 2026 - To: 27 April 2026
+From: 21 April 2026 - To: 28 April 2026
 
-Total Time: 26 hrs 16 mins
+Total Time: 31 hrs 42 mins
 
-Other            14 hrs                ████████▓░░░░░░░░░░░░░░░░   34.77 %
-YAML             8 hrs 37 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
-Go               4 hrs 59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
-Markdown         3 hrs 6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-Docker           2 hrs 38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Other            14 hrs 37 mins        ████████░░░░░░░░░░░░░░░░░   31.57 %
+YAML             9 hrs 6 mins          █████░░░░░░░░░░░░░░░░░░░░   19.65 %
+Go               5 hrs 19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
+Markdown         4 hrs 6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+Docker           2 hrs 43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
 ```
 
 <!--END_SECTION:waka-->
