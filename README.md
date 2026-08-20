@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 August 2026 - To: 18 August 2026
+From: 12 August 2026 - To: 19 August 2026
 
-Total Time: 36 hrs 32 mins
+Total Time: 32 hrs 30 mins
 
-Go                                       15 hrs 5 mins         ████████▓░░░░░░░░░░░░░░░░   35.15 %
-Markdown                                 11 hrs 27 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.69 %
-Other                                    6 hrs 23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 %
-Bash                                     2 hrs 51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-Dart                                     2 hrs 3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Go                   11 hrs 58 mins        ██████▓░░░░░░░░░░░░░░░░░░   27.04 %
+Other                11 hrs 47 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.62 %
+Markdown             11 hrs 4 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.01 %
+Bash                 3 hrs 9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+YAML                 1 hr 56 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
 ```
 
 <!--END_SECTION:waka-->
