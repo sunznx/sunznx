@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2026 - To: 06 September 2026
+From: 31 August 2026 - To: 07 September 2026
 
-Total Time: 73 hrs 17 mins
+Total Time: 68 hrs 30 mins
 
-Go                                       31 hrs 18 mins        █████████▒░░░░░░░░░░░░░░░   36.80 %
-Markdown                                 21 hrs 46 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.59 %
-Other                                    11 hrs 43 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
-Bash                                     5 hrs 18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-HTML                                     3 hrs 30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Go                                       28 hrs 6 mins         ████████▒░░░░░░░░░░░░░░░░   33.94 %
+Markdown                                 25 hrs 56 mins        ███████▓░░░░░░░░░░░░░░░░░   31.32 %
+Other                                    14 hrs 19 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
+Bash                                     3 hrs 25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+HTML                                     3 hrs 8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
 ```
 
 <!--END_SECTION:waka-->
