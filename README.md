@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2026 - To: 11 September 2026
+From: 06 September 2026 - To: 13 September 2026
 
-Total Time: 37 hrs 56 mins
+Total Time: 64 hrs 33 mins
 
-Other                                    18 hrs 19 mins        ████████░░░░░░░░░░░░░░░░░   32.58 %
-Go                                       13 hrs 49 mins        ██████░░░░░░░░░░░░░░░░░░░   24.57 %
-Markdown                                 13 hrs 40 mins        ██████░░░░░░░░░░░░░░░░░░░   24.30 %
-YAML                                     2 hrs 15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-HTML                                     2 hrs 7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Go                                       26 hrs 4 mins         ████████▒░░░░░░░░░░░░░░░░   32.74 %
+Markdown                                 22 hrs 24 mins        ███████░░░░░░░░░░░░░░░░░░   28.13 %
+Other                                    15 hrs 5 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
+YAML                                     3 hrs 21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+Dart                                     2 hrs 45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
 ```
 
 <!--END_SECTION:waka-->
